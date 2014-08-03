@@ -5,11 +5,13 @@ Myner was originally forked from Litecoin
 
 It is the official Symantis Currency and Manti Torrent Tracker
 
-http://www.litecoin.org
+http://symantis.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2014-2015 Symantis Developers
+
+http://www.litecoin.org
 
 TODO
 ----------------
@@ -27,10 +29,6 @@ Myner is a version of Litecoin w/ Manti Torrent Tracker using scrypt as a proof-
  - ~84 million total coins
  - 50 coins per block
  - 2016 blocks to retarget difficulty
-
-
-For more information, as well as an immediately useable, binary version of
-the Litecoin client sofware, see http://www.litecoin.org.
 
 License
 -------

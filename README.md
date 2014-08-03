@@ -1,22 +1,33 @@
-Litecoin integration/staging tree
+Myner integration/staging tree
 ================================
+
+Myner was originally forked from Litecoin
+
+It is the official Symantis Currency and Manti Torrent Tracker
 
 http://www.litecoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2014-2015 Symantis Developers
 
-What is Litecoin?
+TODO
 ----------------
 
-Litecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+ - Update Litecoin mentions and terms to Myner
+ - Integrate Torrent Solution
+ - Create Myner Documentation
+
+What is Myner?
+----------------
+
+Myner is a version of Litecoin w/ Manti Torrent Tracker using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
-
-The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
+
 
 For more information, as well as an immediately useable, binary version of
 the Litecoin client sofware, see http://www.litecoin.org.
@@ -24,7 +35,7 @@ the Litecoin client sofware, see http://www.litecoin.org.
 License
 -------
 
-Litecoin is released under the terms of the MIT license. See `COPYING` for more
+Myner is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
@@ -45,8 +56,8 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/litecoin-project/litecoin/tags) are created
-regularly to indicate new official, stable release versions of Litecoin.
+completely stable. [Tags](https://github.com/Symantis/Myner/tags) are created
+regularly to indicate new official, stable release versions of Myner.
 
 Testing
 -------
